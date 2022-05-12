@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+href, a{
+    color: yellow;
+    text-align: left;
+    display:inline;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.3d666a43c8d99a1e4d6e98c22cf34711?rik=5oy9u%2fcQDDQDKA&riu=http%3a%2f%2fhowimportant.com%2fwp-content%2fuploads%2f2016%2f05%2fOnline-Skate-Shop.jpg&ehk=fgq1YsnS3oo034bD5VAwuIm%2fsXldNEH1M%2bIFRrGzU%2bo%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+h1{
+    height: 40px;
+    text-shadow: 10px, 5px, white;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/696/127/638/road-asphalt-black-dark-wallpaper-preview.jpg);
+    font: bold;
+    text-align: center;
+    color: yellow;
+    
+}
+div{
+    float: left;
+    text-align: center;
+    border: 5px solid;
+    background-color:rgba(255, 255, 255, 0.85)  ;
+    border-color: rgb(46, 46, 46);
+    margin: 5px;
+    padding-left: 5px;
+    margin: 25px, 25px, 25px,25px;
+}
+nav{
+    background-color: rgb(41, 41, 41);
+}
+nav ul{
+    text-align: right;
+}
+nav ul li{
+    display: inline;
+    text-decoration: underline;
+}
+div#first{
+    font-size: 250%;
+    float: right;
+    width:200px;
+    height:800px;
+    margin-right: 10px;
+    border: 5px solid;
+    border-color: black;
+}
+div#second{
+    float: left;
+    width:600px;
+    height: 400px;
+    margin-right: 10px;
+    border: 5px solid;
+    border-color: black;
+}
+div#third{
+    float: right;
+    width: 600px;
+    height: 300px;
+    border: 5px solid;
+    border-color: black;
+}
+div#forth{
+    width: 600px;
+    height: 375px;
+    border: 5px solid;
+    border-color: black;
+}
+div#fifth{
+    font-size: 125%;
+    width: 98%;
+    height: 150px;
+    border-color: black;
+}
+div#sixth{
+    width: 98%;
+    height: 100px;
+    border-color: black;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 125%;
+}
+i{
+    font-size: 75px;
+    padding: 10px;
+}
